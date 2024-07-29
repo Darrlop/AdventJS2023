@@ -37,7 +37,7 @@ function cyberReindeer(road, time) {
         break;
     }
   }
-  return recorrido
+  return recorrido;
 }
 
 const road ="S..|...|..";
